@@ -18,10 +18,10 @@ In this project :
   
 The commands that we used in this project :
 
-head() - It shows the first N rows in the data (by default, N=5).
-shape - It shows the total no. of rows and no. of columns of the dataframe
-index - This attribute provides the index of the dataframe
-columns - It shows the name of each column
+- head() - It shows the first N rows in the data (by default, N=5).
+- shape - It shows the total no. of rows and no. of columns of the dataframe
+- index - This attribute provides the index of the dataframe
+- columns - It shows the name of each column
 dtypes - It shows the data-type of each column
 unique() - In a column, it shows all the unique values. It can be applied on a single column only, not on the whole dataframe.
 nunique() - It shows the total no. of unique values in each column. It can be applied on a single column as well as on the whole dataframe.
